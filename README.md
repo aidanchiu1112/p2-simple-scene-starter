@@ -1,0 +1,7 @@
+# p2-simple-scene-starter
+
+Title: Shinkansen and Its Journey
+Description: Shinkansen is the famous bullet train from Japan. It connects Tokyo with all of the other major cities, allowing passengers to commute efficiently. My project depicts a scene of the N-500 Shinkansen running between Tokyo and Osaka. 
+Explain how your scene uses randomness: My scene uses randomness to generate different backgrounds of the Shinkansen route. The randomness in mountains, trees, and cherry blossoms represent different landscapes that the train pass through. 
+Explain how your scene uses reactivity. What is the input that it reacts to and what is the logic and reasoning for the reaction? The input that it reacts to is the X-coordinate of the mouse pointer. The value of the input determins where the Shinkansen is on the canvas, displaying different positions it could be. The user can use the function to simulate the speed of the train, and model the train to be at a specific position.
+Artist statement: The main effect that I wanted to achieve is not to only generate random scenes of the Shinkansen, but to connect all of the generated pictures to depict a Shinkansen moving along the beautiful landscapes, and being on its way to its destination. I believe that I have archieved that effect partially. If the project was more an infinite scrolling canvas artpiece, I think that the effect would be much more apparent. 
